@@ -1,0 +1,28 @@
+h4 {
+	text-align: center;
+	margin-bottom: 2rem;
+}
+table {
+	text-align: center;
+}
+.nutri_nova {
+	display: flex;
+	justify-content: space-around;
+	margin: auto;
+	flex-direction: row;
+	height: 130px;
+}
+/* .mon_image {
+	display: flex;
+	justify-content: flex-start;
+	margin: auto
+} */
+
+.btn-save {
+	margin-right: 5px;
+}
+.badge {
+	max-height: 130px;
+  /* max-width: 60px; */
+}
+
